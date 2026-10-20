@@ -1,0 +1,6 @@
+{
+  "name": "AI SẼ ĐƯỢC GỌI? - Gọi Tên Ngẫu Nhiên",
+  "description": "Ứng dụng gọi tên ngẫu nhiên tương tác dành cho giảng viên Trường Cao đẳng Nông Lâm Đông Bắc với 3 trò chơi: Đường đua thú cưng, Vườn cây bất ngờ và Máy gắp thú bông.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
